@@ -1,6 +1,6 @@
 #!/bin/bash
 branch=${1:-"master"}
-remote=${2:-"https://github.com/htck/bayeux.git"}
+remote=${2:-"https://github.com/bevilla/bayeux.git"}
 echo "Deploying $branch to gh-pages $remote"
 git checkout $branch
 cd htck
