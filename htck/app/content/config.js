@@ -147,6 +147,7 @@ var constants = {
         "content//images/misc/15_halleys_comet.png",
         "content//images/misc/16_sword.png",
         "content//images/misc/17_sword_helmet.png",
+        "content//images/misc/18_tarte_av_cerfevil.png",
       ]
     },
   ],
