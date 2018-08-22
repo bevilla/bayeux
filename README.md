@@ -1,5 +1,7 @@
 # Historic Tale Construction Kit - Bayeux
 
+> This fork allows users to add the great tarte av cerfevil to their tapisserie. \- bevilla
+
 [Check out the online demo!](http://htck.github.io/bayeux)
 
 > Craft thy own Bayeux Tapestry  
